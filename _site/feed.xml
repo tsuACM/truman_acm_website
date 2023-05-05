@@ -5,8 +5,8 @@
     <description>The website for Truman State's ACM chapter!</description>
     <link>http://acm.truman.edu/</link>
     <atom:link href="http://acm.truman.edu/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 28 Mar 2019 20:09:58 -0500</pubDate>
-    <lastBuildDate>Thu, 28 Mar 2019 20:09:58 -0500</lastBuildDate>
+    <pubDate>Fri, 05 May 2023 17:35:41 -0500</pubDate>
+    <lastBuildDate>Fri, 05 May 2023 17:35:41 -0500</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -344,7 +344,7 @@
   &lt;li&gt;used to programs that execute on one thread that runs from start to finish and you can trace it&lt;/li&gt;
   &lt;li&gt;concurrency allows multiple tasks to be preformed at once&lt;/li&gt;
   &lt;li&gt;have to wait for threads to finish before we exit the main program
-    &lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;t&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;join&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+    &lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;t&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;join&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
   &lt;/li&gt;
   &lt;li&gt;this all allows for more work to be done in less time.&lt;/li&gt;

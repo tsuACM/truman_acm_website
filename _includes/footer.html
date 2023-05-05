@@ -3,6 +3,7 @@
     <p>&copy; {{ site.title }} {{ site.time | date: '%Y' }}</p>
     <p>
       {% if site.discord %}<a href="https://discordapp.com/invite/{{ site.discord }}">Discord</a>{% endif %}
+	  {% if site.instagramUsername %}<a href="https://www.instagram.com/{{ site.instagramUsername }}">Instagram</a>{% endif %}
       {% if site.githubUsername %}<a href="https://github.com/{{ site.githubUsername }}">Github</a>{% endif %}
 	  {% if site.facebookGroup %}<a href="https://www.facebook.com/groups/{{ site.facebookGroup }}">Facebook</a>{% endif %}
     </p>

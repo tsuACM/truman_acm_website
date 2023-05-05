@@ -4,20 +4,18 @@ title: Events
 permalink: /events/
 ---
 
-# Here we will post upcoming events
+Here we will post upcoming events and the topic of upcoming meetings. 
 
 
 
-### [Hackathon 2019][HT]
-- Date: 12 April - 14 April
+### Upcoming Events
+
+Coming **Fall 2023!** 
 
 
+### Upcoming Meetings
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=acm%40truman.edu&amp;color=%231B887A&amp;ctz=America%2FChicago" style="border-width:0" width="100%" height="75%" frameborder="0" scrolling="no"></iframe>
-
-
-
-
+Coming **Fall 2023!** 
    
 
 [HT]: {{site.baseurl}}/hacktruman/
