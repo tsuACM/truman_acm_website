@@ -15,7 +15,13 @@ Coming **Fall 2023!**
 
 ### Upcoming Meetings
 
-Coming **Fall 2023!** 
+*Meetings are held every other Tuesday at 6:00PM in Violette Hall 1148 unless otherwise specified.*
+
+**August 30th**: Introductions
+A special introductory meeting for new members to get to know each other and the exec board. 
+
+**September 5th**: New Professor Q&A
+Our new Computer Science professors will introduce themselves, and students will have a chance to meet them and ask questions. 
    
 
 [HT]: {{site.baseurl}}/hacktruman/

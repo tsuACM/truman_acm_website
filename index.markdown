@@ -9,7 +9,7 @@ This is the website for the Truman State chapter of the Association for Computin
 
 Checkout our events tab to see the calendar and upcoming events. Also checkout the meetings tab to see what we will be doing during our upcoming meetings. 
 
-We hold meetings every other Wednesday in VH1404 at 5:00pm
+We hold meetings every other Tuesday in VH1148 at 6:00pm. 
 
 
 
