@@ -8,21 +8,33 @@ Here we will post upcoming events and the topic of upcoming meetings.
 
 
 
-### Upcoming Events
+## Upcoming Events
 
-Coming **Fall 2023!** 
+**ACM Potluck**: 
+
+On October 31st, ACM will be holding a costume party potluck! More information to come. 
+
+**ACM Hackathon**: 
+
+ACM will be hosting its own Hackathon this November. The kickoff will be October 31st, at the end of the potluck, and entrants will have **2 weeks** to build their entries. Judging will take place at the November 14th meeting. More information to come. 
 
 
-### Upcoming Meetings
+<br/>
+
+
+## Upcoming Meetings
 
 *Meetings are held every other Tuesday at 6:00PM in Violette Hall 1148 unless otherwise specified.*
 
-**August 30th**: Introductions
-A special introductory meeting for new members to get to know each other and the exec board. 
+**September 19th**: Game Night! 
 
-**September 5th**: New Professor Q&A
-Our new Computer Science professors will introduce themselves, and students will have a chance to meet them and ask questions. 
-   
+ACM members will get together to play various group games and board games. Feel free to bring your own! 
+
+**October 3rd**: Internship Panel
+
+A panel of members who have participated in computer science internships and research experiences will be sharing their experiences. Join us and ask questions! 
+
+
 
 [HT]: {{site.baseurl}}/hacktruman/
 [HI]: https://hackisu.org
