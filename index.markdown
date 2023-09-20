@@ -18,6 +18,6 @@ We hold meetings **every other Tuesday in VH1148 at 6:00pm**. Executive meetings
 
 ## Next General Meeting
 
-September 19th: Game Night! 
+**October 3rd**: Internship Panel
 
 Checkout the Events page for more information on upcoming events. 

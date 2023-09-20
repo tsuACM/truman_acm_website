@@ -48,38 +48,87 @@ This website uses Jekyll, which compiles plain-text markdown files into HTML fil
 starting [here](https://cloudcannon.com/tutorials/jekyll-tutorial/getting-started/). You can also look at the [documentation](https://jekyllrb.com/docs/)
 if you have more questions. 
 
+### Folders
+
 When you pulled the website code, you probably noticed that it has a lot of folders with odd names. 
 Jekyll lays out a website's folder structure in a specific way. 
 
-_includes - This folder stores the site's HTML header, footer, and navigation. The header and footer do not need to be edited, but you can
-edit navigation.html to change the nav bar at the top of each page. 
+_includes - This folder stores the site's HTML header, footer, and navigation.
 
-All of the main pages are in _pages, except the front page which is just index.markdown in the root directory. They are markdown files that you edit so a minimal amount of html and css knowledge is necessary. 
+_layouts - These HTML documents describe how different types of pages should be put together. They generally do not need to be edited. 
 
-The meeting minutes are saved in _posts. There is a template for those. just make sure to save it and rename it before you start editing it. 
+_pages - This folder contains the actual content for the website's pages. These files will be edited most frequently. 
+
+_posts - These contain old meeting minutes. Minutes are no longer recorded or displayed on the site, so this folder goes unused. 
+
+_sass - This folder stores all of the site's CSS themes and do not need to be edited. 
+
+_site - When you build the site, the compiled HTML and CSS are stored in this folder. Do not edit the contents of this folder. 
+
+assets - Contains files that appear on the website such as images and code. 
+
+css - Contains main.scss, which tells jekyll how to pull the CSS files in _sass into a complete CSS style sheet. Does not need to be edited. 
+
+Each folder has its own README.md that contains a little more information on that folder. 
+
+### Files
+There are a few important files in the main acm folder that you need to know about. 
+
+index.markdown - This is the home page for the website. To edit the home page, just edit this file and build the site. 
+
+_config.yml - This file stores all of the website's variables, from the title to our social media handles. Read all of the information at the top of the 
+file. Feel free to edit items under the "Social"heading, but leave everything under "Build settings" alone unless you are confident in what you're doing. 
 
 
-# Meeting Minutes notes
+# 3. Changing the Website
+After making edits to the site, make sure to use 
+```
+jekyll build
+```
+to compile the changes into _site. Keep in mind that the links used in the HTML depend on the base URL of the website defined in _config.yml, 
+so many features such as styling and images will not work properly on your local machine. If you are satisfied with the changes, go ahead and 
+push your code. Once your code has been edited and pushed, you need to pull it onto the web server: 
+
+- Log into Truman's Linux server at sand.truman.edu.
+- Navigate to var/www/html/acm and open the console
+- Pull your changes
+- Open acm.truman.edu to ensure your changes went through
+
+Congratulations! That's everything you need to know to edit the website. 
+
+
+
+
+# Other Items
+
+### Meeting Minutes
 ACM does not keep minutes for general meetings at this time. However, there still exists an unused page to display minutes on the site. 
 Should ACM ever start keeping minutes again, follow these steps to add new minutes: 
 
-- file name should be in the format yyyy-mm-dd-string.md
-- title tag will be what is actually displayed on the webpage, so it should be meaningful 
-- place files in _posts folder
+- Open the file **yyyy-mm-dd-title.md** in the main acm folder
+- Save the file under a new name, which should be in the format yyyy-mm-dd-string.md
+- Fill out the file's contents. The title tag will be what is actually displayed on the webpage, so it should be meaningful 
+- Place the new file in _posts
+
+The new page should be added the next time you build the site. 
 
 
-# material-jekyll-theme
+## material-jekyll-theme
+This section is a remnant of the original jekyll theme used for the site. 
+
 [Demo](http://alexcarpenter.github.io/material-jekyll-theme)
+
+[Theme Repository](https://github.com/alexcarpenter/material-jekyll-theme)
 
 ![Material Jekyll Theme](https://d13yacurqjgara.cloudfront.net/users/37718/screenshots/2430279/slice_1.jpg)
 
-## Getting started
+### Getting started
 1. `git clone https://github.com/alexcarpenter/material-jekyll-theme.git`
 2. `cd material-jekyll-theme`
 3. Configure the `_config.yml` file as needed
 4. `jekyll serve`
 
-## Options
+### Options
 Customize your options within the `_config.yml` file.
 
 + Theme

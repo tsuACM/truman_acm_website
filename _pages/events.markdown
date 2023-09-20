@@ -10,6 +10,13 @@ Here we will post upcoming events and the topic of upcoming meetings.
 
 ## Upcoming Events
 
+**TWICS CS Bonfire**: 
+
+On **Monday, September 25th**, TWICS will be holding their semi-annual bonfire at the grills between Violette Hall and Pershing! The event starts at **6:00PM**. 
+There will be food and games available. Come hang out with your fellow CS students and faculty! If you plan on coming, please fill out 
+[this Google form][BonfireLink] so there will be enough 
+food for everyone. 
+
 **ACM Potluck**: 
 
 On October 31st, ACM will be holding a costume party potluck! More information to come. 
@@ -26,16 +33,18 @@ ACM will be hosting its own Hackathon this November. The kickoff will be October
 
 *Meetings are held every other Tuesday at 6:00PM in Violette Hall 1148 unless otherwise specified.*
 
-**September 19th**: Game Night! 
-
-ACM members will get together to play various group games and board games. Feel free to bring your own! 
-
 **October 3rd**: Internship Panel
 
 A panel of members who have participated in computer science internships and research experiences will be sharing their experiences. Join us and ask questions! 
 
+**October 17th**: Automation Tech Talk
+
+Dr. Bindner will be giving a technical presentation about how to create an automated home entertainment center, including MQTT servers, Python and 
+Javascript websockets. 
 
 
+
+[BonfireLink]: https://docs.google.com/forms/d/e/1FAIpQLSf7wLN4gEuAD1srtDOtqakGXikWNx4CjSJSUxyCytAl9aLE5g/viewform?usp=sf_link
 [HT]: {{site.baseurl}}/hacktruman/
 [HI]: https://hackisu.org
 [SH]: https://hackathon.mst.edu
