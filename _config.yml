@@ -37,6 +37,7 @@ permalink: /:year/:month/:title
 markdown: kramdown
 include: [_pages, _site, assets]
 exclude: [CHANGELOG.md, LICENSE, README.md]
+keep_files: [README.md]
 sass:
   style: compressed
   sass_dir: _sass

@@ -32,8 +32,8 @@ Webmaster - Dottie Hildrich
 
 If you notice any issues with the website please email acm@truman.edu. Thank you for checking out our page!
 
-[DA]: https://discordapp.com/invite/bDzuEGuy4G
-[FB]: https://www.facebook.com/groups/trumanacm
+[DA]: https://discordapp.com/invite/{{ site.discord }}
+[FB]: https://www.facebook.com/groups/{{ site.facebookGroup }}
 [ML]: https://groups.google.com/forum/#!forum/truman-acm-mailing
-[IN]: https://www.instagram.com/acm_truman/
-[GH]: https://github.com/tsuACM
+[IN]: https://www.instagram.com/{{ site.instagramUsername }}
+[GH]: https://github.com/{{ site.githubUsername }}
