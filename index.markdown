@@ -18,6 +18,6 @@ We hold meetings **every other Tuesday in VH1148 at 6:00pm**. Executive meetings
 
 ## Next General Meeting
 
-**October 3rd**: Internship Panel
+**October 17th**: Automation Tech Talk
 
 Checkout the Events page for more information on upcoming events. 

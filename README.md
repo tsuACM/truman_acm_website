@@ -5,7 +5,7 @@ This guide is intended for new Webmasters for the ACM chapter of Truman State Un
 # Requirements
 - Understanding of git and Github
 
-# 1. Install jekyll windows
+# 1. Install Jekyll Windows
 - Install ruby-dev from [this](https://rubyinstaller.org/downloads/) website. Make sure to install version **2.7.8**. 
 - Pull the website code to your computer.
 - Open a command line in the website directory.
