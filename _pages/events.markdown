@@ -10,13 +10,17 @@ Here we will post upcoming events and the topic of upcoming meetings.
 
 ## Upcoming Events
 
-**ACM Potluck**: 
+**ACM Halloween Party**: 
 
-On October 31st, ACM will be holding a costume party potluck! More information to come. 
+On **October 31st**, ACM will be holding a Halloween costume party! Food and drinks will be available. More information to come. 
 
 **ACM Hackathon**: 
 
-ACM will be hosting its own Hackathon this November. The kickoff will be October 31st, at the end of the potluck, and entrants will have **2 weeks** to build their entries. Judging will take place at the November 14th meeting. More information to come. 
+ACM will be hosting its own Hackathon this November. The kickoff will be October 31st, at the end of the Hallween party, and entrants will have **2 weeks** to build their entries. Entrants of all skill levels are encouraged to join. Judging will take place at the November 14th meeting. More information to come. 
+
+**TigerHacks**
+
+Mizzou will be hosting its annual hackathon from **November 3rd-5th**. Checkout their website [here][TH] to learn about the event and register. More information to come on ACM participation in TigerHacks. 
 
 
 <br/>
@@ -26,14 +30,13 @@ ACM will be hosting its own Hackathon this November. The kickoff will be October
 
 *Meetings are held every other Tuesday at 6:00PM in Violette Hall 1148 unless otherwise specified.*
 
-**October 17th**: Automation Tech Talk
-
-Dr. Bindner will be giving a technical presentation about how to create an automated home entertainment center, including MQTT servers, Python and 
-Javascript websockets. 
-
 **October 31st**: Halloween Party and Hackathon Kickoff!
 
-ACM will be hosting a Halloween costume party potluck, with the kickoff for our Hackathon at the end of the night. See the Events section for more details. 
+ACM will be hosting a Halloween costume party, with the kickoff for our Hackathon at the end of the night. See the Events section for more details. 
+
+**November 14th**: Hackathon Judging
+
+Teams will show off their hackathon projects and a winner will be chosen!
 
 
 [HT]: {{site.baseurl}}/hacktruman/

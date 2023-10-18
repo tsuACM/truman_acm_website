@@ -14,10 +14,16 @@ Checkout our Events tab to see information about upcoming meetings and events!
 
 We hold meetings **every other Tuesday in VH1148 at 6:00pm**. Executive meetings are held on off Tuesdays at the same time. 
 
+# Hackathon
 
+We will be holding our own 2-week-long hackathon! All skill levels are welcome. See the [Events][EV] page for more details. 
 
 ## Next General Meeting
 
-**October 17th**: Automation Tech Talk
+**October 31st**: Halloween Party and Hackathon Kickoff!
 
-Checkout the Events page for more information on upcoming events. 
+Checkout the [Events][EV] page for more information on upcoming events. 
+
+
+
+[EV]: {{site.baseurl}}/events/
