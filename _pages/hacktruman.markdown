@@ -1,42 +1,47 @@
 ---
 
 layout: page
-title: HackTruman 2019
+title: ACM Hackathon Fall 2023
 permalink: /hacktruman/
 
 ---
 
-## April 12<sup>th</sup>-14<sup>th</sup>
+# ACM Hackathon!
 
-## Location will be annouced, plans went awry.
+## October 31<sup>st</sup> - November 14<sup>th</sup>
 
 ## Rules
 
-Maximum Team Size of 3
+* All skill levels are welcome! Judging will be based on execution and creativity, not complexity. 
 
-Projects must be only code made between the Opening and Closing times
+* The kickoff will be our Halloween party on the 31st, and entries will be due before our meeting on November the 14th. 
 
-## Schedule
+* Teams have a maximum size of 3. 
 
-Fri  6:00pm - Opening
+* Teams can write their projects in any language, but must upload them to Github for submission. 
 
-Sat  5:00pm - Dinner
+* All teams will give a presentation demonstrating their project. The presentation should be 5 minutes or less. 
 
-Sat  6:00pm - Game (TBD)
+## Criteria
 
-Sun 12:00pm - Closing
+Projects will be evaluated on 5 dimensions: 
+
+1. Theme - *How well does the project incorporate the theme?* 
+
+2. Creativity - *Was the idea for the project original?* 
+
+3. Accessibility - *Is the project easy to use and understand?* 
+
+4. Polish - *How complete was the project?* 
+
+5. Presentation - *Was the project presented well? Was the speaker well prepared?* 
 
 ## Prizes
 
-1st - 
+There will be Steam and Amazon gift cards available as prizes!
 
-2nd -
+# Prompt: To Be Added
 
-Freshman - 
+Teams will build their projects based on a simple theme. This theme will be made available at the kickoff. 
 
-## Sponsors
-
-- Cerner
-
-Start looking for more info being added to this page in the future such as prizes, rules, sponsors and more.  
 
