@@ -8,7 +8,7 @@ permalink: /order/
 
 # ACM T-Shirts
 
-ACM is selling T-shirts to support the club! T-shirts are **$20 each** and all funds go to future club events. 
+ACM is selling T-shirts to support the club! T-shirts are **$20 each** and all funds go to future club events. Payments can be made to @andy-bernatow on Venmo or to Andy Bernatow in person with cash.
 
 ## Designs
 
