@@ -8,7 +8,7 @@ permalink: /about/
 
 This is the website for Truman State University's ACM chapter. You can visit our [Discord channel][DA] or check out our [Instagram][IN], as well as our [Facebook group][FB]. Finally, you can view this website's code at our [Github][GH]. Thank you for checking out our website!
 
-<iframe src="https://discord.com/widget?id=899815128546046033&theme=dark" width="450" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<iframe src="https://discord.com/widget?id=899815128546046033&theme=dark" width="100%" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 <br /> 
 
