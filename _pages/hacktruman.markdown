@@ -20,6 +20,8 @@ permalink: /hacktruman/
 
 * Teams can write their projects in any language, but must upload them to Github for submission. 
 
+* Teams may not use any code written before the start of the hackathon. They may use publicly available assets such as images as long as they are copyright-free. 
+
 * All teams will give a presentation demonstrating their project. The presentation should be 5 minutes or less. 
 
 ## Criteria

@@ -8,9 +8,9 @@ permalink: /order/
 
 # ACM T-Shirts
 
-ACM is selling T-shirts to support the club! T-shirts are $20 each and all funds go to future club events. 
+ACM is selling T-shirts to support the club! T-shirts are **$20 each** and all funds go to future club events. 
 
-[Link][TS2023]
+Click the button below to order a shirt!
 
+{% include button.html url = 'https://forms.gle/t8QbVHCgiT3DfPsR6' %}
 
-[TS2023]: https://forms.gle/t8QbVHCgiT3DfPsR6

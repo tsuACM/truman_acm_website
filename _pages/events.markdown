@@ -20,7 +20,7 @@ ACM will be hosting its own Hackathon this November. The kickoff will be October
 
 **TigerHacks**
 
-Mizzou will be hosting its annual hackathon from **November 3rd-5th**. Checkout their website [here][TH] to learn about the event and register. ACM is organizing teams to send to TigerHacks. If you would like to join us, please sign up [here][THSignUp]. Please sign up whether or not you have a team or transportation, as we will be helping to organize both once we know who will be attending. 
+Mizzou will be hosting its annual hackathon from **November 3rd-5th**. Checkout their website [here][TH] to learn about the event and register. ACM is organizing teams to send to TigerHacks. If you would like to join us, please sign up [here][THSignUp]. If you don't yet have a team or transportation, sign up anyway! We will be helping to organize both once we know who will be attending. 
 
 
 <br/>
