@@ -24,6 +24,8 @@ permalink: /hacktruman/
 
 * All teams will give a presentation demonstrating their project. The presentation should be 5 minutes or less. 
 
+* Full hackathon rules, **along with the rubric**, will be available [here][Rubric]. 
+
 ## Criteria
 
 Projects will be evaluated on 5 dimensions: 
@@ -42,8 +44,14 @@ Projects will be evaluated on 5 dimensions:
 
 There will be Steam and Amazon gift cards available as prizes!
 
-# Prompt: To Be Added
+# Prompt: Generator
 
-Teams will build their projects based on a simple theme. This theme will be made available at the kickoff. 
+Teams will build their projects based the theme. The theme for this year is "Generator" - teams must build and
+project that generates something. It could be maps, images, stories, or anything else. 
+
+# Submission
+
+Projects will be due on November 14th. Don't forget to have your projects uploaded to GitHub. Submission form to be added. 
 
 
+[Rubric]: {{site.baseurl}}/assets/hackathon/ACMHackathonInformation2023.pdf

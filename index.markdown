@@ -15,7 +15,7 @@ We hold meetings **every other Tuesday in VH1148 at 6:00pm**. Executive meetings
 
 # Hackathon
 
-ACM will be holding our own 2-week-long hackathon! All skill levels are welcome. See the [hackathon page][HT] page for more details. 
+ACM is holding our own 2-week-long hackathon! All skill levels are welcome. See the [hackathon page][HT] page for more details. 
 
 # T-Shirts
 
@@ -23,7 +23,7 @@ We have started taking orders for [Truman ACM T-shirts][OF]! Show off your suppo
 
 ## Next General Meeting
 
-**October 31st**: Halloween Party and Hackathon Kickoff!
+**November 14th**: Hackathon Judging
 
 Checkout the [Events][EV] page for more information on upcoming events and meetings. 
 

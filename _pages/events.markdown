@@ -10,29 +10,15 @@ Here we will post upcoming events and the topic of upcoming meetings.
 
 ## Upcoming Events
 
-**ACM Halloween Party**: 
-
-On **October 31st**, ACM will be holding a Halloween costume party! Food and drinks will be available, and at the end of the night, we will kick off our hackathon! 
-
 **ACM Hackathon**: 
 
-ACM will be hosting its own Hackathon this November. The kickoff will be October 31st, at the end of the Hallween party, and entrants will have **2 weeks** to build their entries. Entrants of all skill levels are encouraged to join. Check out the [hackathon page][HT] for more info!   
-
-**TigerHacks**
-
-Mizzou will be hosting its annual hackathon from **November 3rd-5th**. Checkout their website [here][TH] to learn about the event and register. ACM is organizing teams to send to TigerHacks. If you would like to join us, please sign up [here][THSignUp]. If you don't yet have a team or transportation, sign up anyway! We will be helping to organize both once we know who will be attending. 
-
+ACM is hosting its own Hackathon this November. The kickoff was October 31st, at the end of the Hallween party, and entrants have **2 weeks** to build their entries. Entrants of all skill levels are encouraged to join. The hackathon has started, but it does not end until November 14th, so feel free to join any time! Check out the [hackathon page][HT] for more info.   
 
 <br/>
-
 
 ## Upcoming Meetings
 
 *Meetings are held every other Tuesday at 6:00PM in Violette Hall 1148 unless otherwise specified.*
-
-**October 31st**: Halloween Party and Hackathon Kickoff!
-
-ACM will be hosting a Halloween costume party, with the kickoff for our Hackathon at the end of the night. See the [hackathon page][HT] for more details. 
 
 **November 14th**: Hackathon Judging
 
