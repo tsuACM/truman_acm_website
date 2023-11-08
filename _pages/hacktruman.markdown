@@ -14,7 +14,7 @@ permalink: /hacktruman/
 
 * All skill levels are welcome! Judging will be based on execution and creativity, not complexity. 
 
-* The kickoff will be our Halloween party on the 31st, and entries will be due before our meeting on November the 14th. 
+* The kickoff was our Halloween party on the 31st, and entries will be due before our meeting on November the 14th. 
 
 * Teams have a maximum size of 3. 
 
@@ -22,7 +22,7 @@ permalink: /hacktruman/
 
 * Teams may not use any code written before the start of the hackathon. They may use publicly available assets such as images as long as they are copyright-free. 
 
-* All teams will give a presentation demonstrating their project. The presentation should be 5 minutes or less. 
+* All teams will give a presentation demonstrating their project. The presentation can be in any format from a discussion to a video to a live demo, but it must be 5 minutes or less. 
 
 * Full hackathon rules, **along with the rubric**, will be available [here][Rubric]. 
 
@@ -41,8 +41,13 @@ Projects will be evaluated on 5 dimensions:
 5. Presentation - *Was the project presented well? Was the speaker well prepared?* 
 
 ## Prizes
+The prizes are: 
 
-There will be Steam and Amazon gift cards available as prizes!
+* A Steam gift card
+* An Amazon gift card
+* Snacks & Sodas
+
+First place will have first pick of the prizes, and so on. 
 
 # Prompt: Generator
 
@@ -51,7 +56,8 @@ project that generates something. It could be maps, images, stories, or anything
 
 # Submission
 
-Projects will be due on November 14th. Don't forget to have your projects uploaded to GitHub. Submission form to be added. 
+The deadline for projects is November 14th. You can find the submission form [here][Submit]. Don't forget to upload your code to GitHub! 
 
 
 [Rubric]: {{site.baseurl}}/assets/hackathon/ACMHackathonInformation2023.pdf
+[Submit]: https://forms.gle/BxQ8EGFBUMRZR3D48
