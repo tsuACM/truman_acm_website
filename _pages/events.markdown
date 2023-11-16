@@ -10,9 +10,7 @@ Here we will post upcoming events and the topic of upcoming meetings.
 
 ## Upcoming Events
 
-**ACM Hackathon**: 
-
-ACM is hosting its own Hackathon this November. The kickoff was October 31st, at the end of the Hallween party, and entrants have **2 weeks** to build their entries. Entrants of all skill levels are encouraged to join. The hackathon has started, but it does not end until November 14th, so feel free to join any time! Check out the [hackathon page][HT] for more info.   
+Check back in spring for more exciting events! 
 
 <br/>
 
@@ -20,9 +18,10 @@ ACM is hosting its own Hackathon this November. The kickoff was October 31st, at
 
 *Meetings are held every other Tuesday at 6:00PM in Violette Hall 1148 unless otherwise specified.*
 
-**November 14th**: Hackathon Judging
+**November 28th**: Elections
 
-Teams will show off their hackathon projects and a winner will be chosen!
+In our final meeting for the year, we will be electing a new executive board for 2024. 
+
 
 
 [HT]: {{site.baseurl}}/hacktruman/

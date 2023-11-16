@@ -13,17 +13,13 @@ Checkout our Events tab to see information about upcoming meetings and events!
 
 We hold meetings **every other Tuesday in VH1148 at 6:00pm**. Executive meetings are held on off Tuesdays at the same time. 
 
-# Hackathon
-
-ACM is holding our own 2-week-long hackathon! All skill levels are welcome. See the [hackathon page][HT] page for more details. 
-
 # T-Shirts
 
 We have started taking orders for [Truman ACM T-shirts][OF]! Show off your support for the club! 
 
 ## Next General Meeting
 
-**November 14th**: Hackathon Judging
+**November 28th**: Elections
 
 Checkout the [Events][EV] page for more information on upcoming events and meetings. 
 
