@@ -19,9 +19,7 @@ We have started taking orders for [Truman ACM T-shirts][OF]! Show off your suppo
 
 ## Next General Meeting
 
-**November 28th**: Elections
-
-Checkout the [Events][EV] page for more information on upcoming events and meetings. 
+Meetings will resume in spring. Have a great break! 
 
 
 

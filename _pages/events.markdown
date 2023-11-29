@@ -18,9 +18,7 @@ Check back in spring for more exciting events!
 
 *Meetings are held every other Tuesday at 6:00PM in Violette Hall 1148 unless otherwise specified.*
 
-**November 28th**: Elections
-
-In our final meeting for the year, we will be electing a new executive board for 2024. 
+Meetings will resume in spring. Have a great break! 
 
 
 
