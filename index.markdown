@@ -11,15 +11,18 @@ Checkout our Events tab to see information about upcoming meetings and events!
 
 # Meetings
 
-We hold meetings **every other Tuesday in VH1148 at 6:00pm**. Executive meetings are held on off Tuesdays at the same time. 
+We hold meetings **every other Monday in VH1148 at 6:00pm**. Executive meetings are held on off Mondays at the same time. 
 
 # T-Shirts
 
-We have started taking orders for [Truman ACM T-shirts][OF]! Show off your support for the club! 
+T-Shirts have now arrived! If you haven't gotten yours, you will be able to get it at the next meeting.
 
 ## Next General Meeting
+*See the [events page][EV] for details about upcoming meetings.*
 
-Meetings will resume in spring. Have a great break! 
+**January 29th**: Spring Introduction
+
+
 
 
 

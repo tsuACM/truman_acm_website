@@ -10,15 +10,23 @@ Here we will post upcoming events and the topic of upcoming meetings.
 
 ## Upcoming Events
 
-Check back in spring for more exciting events! 
+**Game Jam**
+
+ACM will be holding a game jam beginning in February! The kickoff will be at our **February 12th meeting**, and judging and awards will take place at the meeting after, February 26th. Check back soon for more details. 
 
 <br/>
 
 ## Upcoming Meetings
 
-*Meetings are held every other Tuesday at 6:00PM in Violette Hall 1148 unless otherwise specified.*
+*Meetings are held every other Monday at 6:00PM in Violette Hall 1148 unless otherwise specified.*
 
-Meetings will resume in spring. Have a great break! 
+**January 29th**: Spring Introduction
+
+We will be beginning the Spring semester with introductions and games! We will also be handing out the t-shirts ordered last semester.
+
+**February 12th**: Game Jam Kickoff
+
+This meeting will be the kickoff for ACM's game jam! Check the events section for more details. 
 
 
 
