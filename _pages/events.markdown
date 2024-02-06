@@ -12,7 +12,7 @@ Here we will post upcoming events and the topic of upcoming meetings.
 
 **Game Jam**
 
-ACM will be holding a game jam beginning in February! The kickoff will be at our **February 12th meeting**, and judging and awards will take place at the meeting after, February 26th. Check back soon for more details. 
+ACM will be holding a game jam beginning in February! Check the [game jam page][GJ] for more details. 
 
 <br/>
 
@@ -20,17 +20,18 @@ ACM will be holding a game jam beginning in February! The kickoff will be at our
 
 *Meetings are held every other Monday at 6:00PM in Violette Hall 1148 unless otherwise specified.*
 
-**January 29th**: Spring Introduction
-
-We will be beginning the Spring semester with introductions and games! We will also be handing out the t-shirts ordered last semester.
-
 **February 12th**: Game Jam Kickoff
 
-This meeting will be the kickoff for ACM's game jam! Check the events section for more details. 
+This meeting will be the kickoff for ACM's game jam! Check the [game jam page][GJ] for more details. 
+
+**February 26th**: Game Jam Judging
+
+Game Jam entries will be demoed and judged, and prizes will be awarded! 
 
 
 
 [HT]: {{site.baseurl}}/hacktruman/
+[GJ]: {{site.baseurl}}/gamejam/
 [HI]: https://hackisu.org
 [SH]: https://hackathon.mst.edu
 [RT]: https://www.eventbrite.com/e/shamhacks-2018-tickets-39820147132

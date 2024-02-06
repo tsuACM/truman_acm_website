@@ -13,6 +13,10 @@ Checkout our Events tab to see information about upcoming meetings and events!
 
 We hold meetings **every other Monday in VH1148 at 6:00pm**. Executive meetings are held on off Mondays at the same time. 
 
+# Game Jam
+
+ACM is hosting a game jam! Head over to the [game jam page][GJ] for more details. 
+
 # T-Shirts
 
 T-Shirts have now arrived! If you haven't gotten yours, you will be able to get it at the next meeting.
@@ -20,7 +24,7 @@ T-Shirts have now arrived! If you haven't gotten yours, you will be able to get 
 ## Next General Meeting
 *See the [events page][EV] for details about upcoming meetings.*
 
-**January 29th**: Spring Introduction
+**February 12th**: Game Jam Kickoff
 
 
 
@@ -28,4 +32,5 @@ T-Shirts have now arrived! If you haven't gotten yours, you will be able to get 
 
 [EV]: {{site.baseurl}}/events/
 [HT]: {{site.baseurl}}/hacktruman/
+[GJ]: {{site.baseurl}}/gamejam/
 [OF]: {{site.baseurl}}/order/
