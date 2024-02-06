@@ -20,7 +20,7 @@ permalink: /gamejam/
 
 * Teams can write their games in any language, but [p5.js][P5] is recommended for beginners and a presentation on how to use it will be given at the kickoff. 
 
-* Teams may not use any code written before the start of the hackathon. They may use publicly available assets such as images as long as they are copyright-free. 
+* Teams may not use any code written before the start of the game jam. They may use publicly available assets such as images as long as they are copyright-free. 
 
 * All teams will give a live demo of their game for the judges, which must be 5 minutes or less. 
 
@@ -31,9 +31,9 @@ Projects will be evaluated on 5 dimensions:
 
 1. Creativity - *Is the idea behind the game creative? Does the game include creative or interesting gameplay mechanics?* 
 
-2. Polish - *How finished is the game? Does it have any apparent glitches? Is it polished?* 
+2. Polish - *How finished is the game? Does it have any apparent glitches?* 
 
-3. Presentation - *How complete and cohesive is the overall presentation? This includes graphics, sound, UI, and any other audiovisual elements.* 
+3. Presentation - *How complete and cohesive is the overall presentation?* 
 
 4. Theme - *How well does the game embody the theme?* 
 

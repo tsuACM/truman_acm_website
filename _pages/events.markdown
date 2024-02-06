@@ -26,7 +26,7 @@ This meeting will be the kickoff for ACM's game jam! Check the [game jam page][G
 
 **February 26th**: Game Jam Judging
 
-Game Jam entries will be demoed and judged, and prizes will be awarded! 
+Game jam entries will be demoed and judged, and prizes will be awarded! 
 
 
 
