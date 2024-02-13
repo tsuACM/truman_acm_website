@@ -9,22 +9,27 @@ This is the website for the Truman State University chapter of the Association f
 
 Checkout our Events tab to see information about upcoming meetings and events!
 
+
 # Meetings
 
 We hold meetings **every other Monday in VH1148 at 6:00pm**. Executive meetings are held on off Mondays at the same time. 
+
 
 # Game Jam
 
 ACM is hosting a game jam! Head over to the [game jam page][GJ] for more details. 
 
+
 # T-Shirts
 
 T-Shirts have now arrived! If you haven't gotten yours, you will be able to get it at the next meeting.
 
+
 ## Next General Meeting
+
 *See the [events page][EV] for details about upcoming meetings.*
 
-**February 12th**: Game Jam Kickoff
+**February 26th**: Game Jam Judging
 
 
 

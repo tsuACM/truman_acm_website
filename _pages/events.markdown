@@ -12,17 +12,13 @@ Here we will post upcoming events and the topic of upcoming meetings.
 
 **Game Jam**
 
-ACM will be holding a game jam beginning in February! Check the [game jam page][GJ] for more details. 
+ACM is currently holding a game jam! Check the [game jam page][GJ] for more details. 
 
 <br/>
 
 ## Upcoming Meetings
 
 *Meetings are held every other Monday at 6:00PM in Violette Hall 1148 unless otherwise specified.*
-
-**February 12th**: Game Jam Kickoff
-
-This meeting will be the kickoff for ACM's game jam! Check the [game jam page][GJ] for more details. 
 
 **February 26th**: Game Jam Judging
 

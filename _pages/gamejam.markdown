@@ -14,13 +14,15 @@ permalink: /gamejam/
 
 * All skill levels are welcome! Judging will be based on execution and creativity, not complexity. 
 
-* The kickoff will be at our meeting on February 12th. Submissions will be due at the next meeting, February 26th. 
+* Submissions will be due at our meeting on February 26th, at 6:00PM. 
 
 * Teams have a maximum size of 3. 
 
-* Teams can write their games in any language, but [p5.js][P5] is recommended for beginners and a presentation on how to use it will be given at the kickoff. 
+* Teams can write their games in any language, but [p5.js][P5] is recommended for beginners. 
 
 * Teams may not use any code written before the start of the game jam. They may use publicly available assets such as images as long as they are copyright-free. 
+
+* A link to a p5.js project, an itch.io page, or a Github repository is required to submit the team's game. 
 
 * All teams will give a live demo of their game for the judges, which must be 5 minutes or less. 
 
@@ -39,6 +41,8 @@ Projects will be evaluated on 5 dimensions:
 
 5. Demo - *Is the demo descriptive and well-prepared? Does it adequately present the features of the game?* 
 
+The full rubric can be viewed [here][Rubric].
+
 
 ## Prizes
 The prizes are: 
@@ -50,18 +54,18 @@ The prizes are:
 First place will have first pick of the prizes, and so on. 
 
 
-# Prompt: To Be Revealed
+# Prompt: Easter Egg
 
-The theme will be revealed on the day of the kickoff. 
+The theme for this game jam is Easter Egg! The game must incorporate the idea of an Easter egg in some way. The phrase is usually associated with [hidden secrets][EE] in games, but teams are free to interpret the theme however they see fit. 
 
 
 # Submission
 
-The deadline for projects will be February 26th. 
+The deadline for submissions is February 26th, before the meeting at 6:00PM. Projects can be submitted [here][Submit].
 
 
 
-
-[Rubric]: {{site.baseurl}}/assets/hackathon/ACMHackathonInformation2023.pdf
-[Submit]: https://forms.gle/BxQ8EGFBUMRZR3D48
+[EE]: https://en.wikipedia.org/wiki/Easter_egg_(media)
+[Rubric]: https://docs.google.com/document/d/1NGSTnWUxPJ841z1eyPtD3UQzEU8LelChaghmB3vcXGw/edit?usp=sharing
+[Submit]: https://forms.gle/u2HS2LV5ArhaQidB9
 [P5]: https://p5js.org/
