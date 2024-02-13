@@ -18,7 +18,7 @@ permalink: /gamejam/
 
 * Teams have a maximum size of 3. 
 
-* Teams can write their games in any language, but [p5.js][P5] is recommended for beginners. 
+* Teams can write their games in any language, but [p5.js][P5] is recommended for beginners. Dr. Kafi's helpful crash course on its use can be found [here][P5P]. 
 
 * Teams may not use any code written before the start of the game jam. They may use publicly available assets such as images as long as they are copyright-free. 
 
@@ -69,3 +69,4 @@ The deadline for submissions is February 26th, before the meeting at 6:00PM. Pro
 [Rubric]: https://docs.google.com/document/d/1NGSTnWUxPJ841z1eyPtD3UQzEU8LelChaghmB3vcXGw/edit?usp=sharing
 [Submit]: https://forms.gle/u2HS2LV5ArhaQidB9
 [P5]: https://p5js.org/
+[P5P]: {{site.baseurl}}/assets/gamejam/p5_GameJam-1.pdf
