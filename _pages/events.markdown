@@ -10,19 +10,18 @@ Here we will post upcoming events and the topic of upcoming meetings.
 
 ## Upcoming Events
 
-**Game Jam**
-
-ACM is currently holding a game jam! Check the [game jam page][GJ] for more details. 
+Check back soon for more information about upcoming events! 
 
 <br/>
+
 
 ## Upcoming Meetings
 
 *Meetings are held every other Monday at 6:00PM in Violette Hall 1148 unless otherwise specified.*
 
-**February 26th**: Game Jam Judging
+**March 18th**: Dr. Bindner Talk
 
-Game jam entries will be demoed and judged, and prizes will be awarded! 
+Dr. Bindner will be giving another tech talk this semester! Stop by to learn something new! 
 
 
 

@@ -17,19 +17,14 @@ We hold meetings **every other Monday in VH1148 at 6:00pm**. Executive meetings 
 
 # Game Jam
 
-ACM is hosting a game jam! Head over to the [game jam page][GJ] for more details. 
-
-
-# T-Shirts
-
-T-Shirts have now arrived! If you haven't gotten yours, you will be able to get it at the next meeting.
+The game jam is now over! Thanks to everyone who participated. 
 
 
 ## Next General Meeting
 
 *See the [events page][EV] for details about upcoming meetings.*
 
-**February 26th**: Game Jam Judging
+**March 18th**: Dr. Bindner Talk
 
 
 
