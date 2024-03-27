@@ -29,7 +29,6 @@ Missouri S&T will be hosting the PickHacks Hackathon this year! Please see the [
 
 
 
-[PHInterest]: https://forms.gle/Bwvg6KiHg59ny5WEA
 [EV]: {{site.baseurl}}/events/
 [HT]: {{site.baseurl}}/hacktruman/
 [GJ]: {{site.baseurl}}/gamejam/

@@ -27,6 +27,7 @@ We will be discussing how to start your own personal project. Members will also 
 
 
 
+[PHInterest]: https://forms.gle/Bwvg6KiHg59ny5WEA
 [HT]: {{site.baseurl}}/hacktruman/
 [GJ]: {{site.baseurl}}/gamejam/
 [HI]: https://hackisu.org
