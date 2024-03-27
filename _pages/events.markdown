@@ -4,13 +4,15 @@ title: Events
 permalink: /events/
 ---
 
-Here we will post upcoming events and the topic of upcoming meetings. 
+Here we will post upcoming events and the topics of upcoming meetings. 
 
 
 
 ## Upcoming Events
 
-Check back soon for more information about upcoming events! 
+### PickHacks 2024
+
+Missouri S&T will be hosting the [PickHacks Hackathon][S&T] from April 5th - April 7th! If you are interested in participating, please fill out this [interest form][PHInterest]. 
 
 <br/>
 
@@ -19,9 +21,9 @@ Check back soon for more information about upcoming events!
 
 *Meetings are held every other Monday at 6:00PM in Violette Hall 1148 unless otherwise specified.*
 
-**March 18th**: Dr. Bindner Talk
+**April 8th**: Personal Projects (and Elections)
 
-Dr. Bindner will be giving another tech talk this semester! Stop by to learn something new! 
+We will be discussing how to start your own personal project. Members will also get a chance to show off their work-in-progress personal projects. Come show off your hard work or get ideas for a project of your own! Also, we will be conducting mid-semester elections to fill out the vacant executive board spots. 
 
 
 

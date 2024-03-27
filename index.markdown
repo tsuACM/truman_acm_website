@@ -15,21 +15,21 @@ Checkout our Events tab to see information about upcoming meetings and events!
 We hold meetings **every other Monday in VH1148 at 6:00pm**. Executive meetings are held on off Mondays at the same time. 
 
 
-# Game Jam
+# PickHacks 2024
 
-The game jam is now over! Thanks to everyone who participated. 
+Missouri S&T will be hosting the PickHacks Hackathon this year! Please see the [events page][EV] for more details. 
 
 
 ## Next General Meeting
 
 *See the [events page][EV] for details about upcoming meetings.*
 
-**March 18th**: Dr. Bindner Talk
+**April 8th**: Personal Projects
 
 
 
 
-
+[PHInterest]: https://forms.gle/Bwvg6KiHg59ny5WEA
 [EV]: {{site.baseurl}}/events/
 [HT]: {{site.baseurl}}/hacktruman/
 [GJ]: {{site.baseurl}}/gamejam/
