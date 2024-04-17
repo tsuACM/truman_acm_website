@@ -10,9 +10,7 @@ Here we will post upcoming events and the topics of upcoming meetings.
 
 ## Upcoming Events
 
-### PickHacks 2024
-
-Missouri S&T will be hosting the [PickHacks Hackathon][S&T] from April 5th - April 7th! If you are interested in participating, please fill out this [interest form][PHInterest]. 
+Check back regularly for updates on upcoming events! 
 
 <br/>
 
@@ -21,13 +19,17 @@ Missouri S&T will be hosting the [PickHacks Hackathon][S&T] from April 5th - Apr
 
 *Meetings are held every other Monday at 6:00PM in Violette Hall 1148 unless otherwise specified.*
 
-**April 8th**: Personal Projects (and Elections)
+**April 22nd**: CS Bonfire
 
-We will be discussing how to start your own personal project. Members will also get a chance to show off their work-in-progress personal projects. Come show off your hard work or get ideas for a project of your own! Also, we will be conducting mid-semester elections to fill out the vacant executive board spots. 
+Instead of a regular meeting, this week we will be attending the CS Bonfire hosted by TWICS. It starts at 6:00PM at the grills between Ryle, Pershing, and Violette Hall. There will be free drinks and food. This is a great chance to meet with other CS majors and even some professors! Make sure to RSVP for it [here][TWICS] before Saturday, April 20th. 
+
+**April 29th**: Game Night
+
+We will be fnishing the Spring semester with an ACM game night! See all of your fellow ACM members before finals week and summer vacation. 
 
 
 
-[PHInterest]: https://forms.gle/Bwvg6KiHg59ny5WEA
+[TWICS]: https://docs.google.com/forms/d/e/1FAIpQLScCbiCK-mrGl2NK5qnvPjU4RAQryNq9FTIPKRjTcovHzsYX2Q/viewform
 [HT]: {{site.baseurl}}/hacktruman/
 [GJ]: {{site.baseurl}}/gamejam/
 [HI]: https://hackisu.org

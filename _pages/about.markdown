@@ -17,7 +17,7 @@ This is the website for Truman State University's ACM chapter. You can visit our
 
 President - Owen Murphy
 
-Vice President - Aniruddha Biswas Atanu
+Vice President - James Calder
 
 Treasurer - Andy Bernatow
 
