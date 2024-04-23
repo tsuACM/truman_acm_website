@@ -19,7 +19,7 @@ We hold meetings **every other Monday in VH1148 at 6:00pm**. Executive meetings 
 
 *See the [events page][EV] for details about upcoming meetings.*
 
-**April 22nd**: CS Bonfire
+**April 29th**: Game Night
 
 
 

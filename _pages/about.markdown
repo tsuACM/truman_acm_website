@@ -23,7 +23,7 @@ Treasurer - Andy Bernatow
 
 Secretary - Julian Williams
 
-Recruitment Chair - Aidan Dunne
+Recruitment Chair - Aditya Shah
 
 Webmaster - Dottie Hildrich
 

@@ -19,17 +19,12 @@ Check back regularly for updates on upcoming events!
 
 *Meetings are held every other Monday at 6:00PM in Violette Hall 1148 unless otherwise specified.*
 
-**April 22nd**: CS Bonfire
-
-Instead of a regular meeting, this week we will be attending the CS Bonfire hosted by TWICS. It starts at 6:00PM at the grills between Ryle, Pershing, and Violette Hall. There will be free drinks and food. This is a great chance to meet with other CS majors and even some professors! Make sure to RSVP for it [here][TWICS] before Saturday, April 20th. 
-
 **April 29th**: Game Night
 
 We will be fnishing the Spring semester with an ACM game night! See all of your fellow ACM members before finals week and summer vacation. 
 
 
 
-[TWICS]: https://docs.google.com/forms/d/e/1FAIpQLScCbiCK-mrGl2NK5qnvPjU4RAQryNq9FTIPKRjTcovHzsYX2Q/viewform
 [HT]: {{site.baseurl}}/hacktruman/
 [GJ]: {{site.baseurl}}/gamejam/
 [HI]: https://hackisu.org
