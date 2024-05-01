@@ -19,9 +19,7 @@ Check back regularly for updates on upcoming events!
 
 *Meetings are held every other Monday at 6:00PM in Violette Hall 1148 unless otherwise specified.*
 
-**April 29th**: Game Night
-
-We will be fnishing the Spring semester with an ACM game night! See all of your fellow ACM members before finals week and summer vacation. 
+Have a great summer! 
 
 
 
