@@ -1,63 +1,36 @@
 ---
 
 layout: page
-title: ACM Hackathon Fall 2023
+title: ACM Codeathon Fall 2024
 permalink: /hacktruman/
 
 ---
 
-# ACM Hackathon!
+# ACM Codeathon!
 
-## October 31<sup>st</sup> - November 14<sup>th</sup>
+## September 23<sup>rd</sup> - October 7<sup>th</sup>
 
 ## Rules
 
-* All skill levels are welcome! Judging will be based on execution and creativity, not complexity. 
+Welcome to the Fall 2024 Codeathon! Here is some important information: 
 
-* The kickoff was our Halloween party on the 31st, and entries will be due before our meeting on November the 14th. 
+* All skill levels and majors are welcome! Judging will be based on execution and creativity, not complexity. 
 
-* Teams have a maximum size of 3. 
+* The kickoff will be on September 23rd. Entries must be submitted by October 7th. 
 
-* Teams can write their projects in any language, but must upload them to Github for submission. 
+* There will be free food provided at both the kickoff and the judging ceremony. 
 
-* Teams may not use any code written before the start of the hackathon. They may use publicly available assets such as images as long as they are copyright-free. 
+* Teams have a maximum size of 5. 
 
-* All teams will give a presentation demonstrating their project. The presentation can be in any format from a discussion to a video to a live demo, but it must be 5 minutes or less. 
+More information will be available closer to the kickoff date, so keep checking back! 
 
-* Full hackathon rules, **along with the rubric**, will be available [here][Rubric]. 
+## Interest Form
 
-## Criteria
+If you are interested in participating in the Codeathon, please fill out the following form. Filling out the form is **not** a commitment to participating in the Codeathon. 
 
-Projects will be evaluated on 5 dimensions: 
-
-1. Theme - *How well does the project incorporate the theme?* 
-
-2. Creativity - *Was the idea for the project original?* 
-
-3. Accessibility - *Is the project easy to use and understand?* 
-
-4. Polish - *How complete was the project?* 
-
-5. Presentation - *Was the project presented well? Was the speaker well prepared?* 
-
-## Prizes
-The prizes are: 
-
-* A Steam gift card
-* An Amazon gift card
-* Snacks & Sodas
-
-First place will have first pick of the prizes, and so on. 
-
-# Prompt: Generator
-
-Teams will build their projects based the theme. The theme for this year is "Generator" - teams must build and
-project that generates something. It could be maps, images, stories, or anything else. 
-
-# Submission
-
-The deadline for projects is November 14th. You can find the submission form [here][Submit]. Don't forget to upload your code to GitHub! 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScIM4HGXZ-8UNUoMSpN8iEjjzb6z-Ado-xMkyV-NZ3caPP6EA/viewform?embedded=true" width="100%" height="1067" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 
+[Interest]: https://docs.google.com/forms/d/e/1FAIpQLScIM4HGXZ-8UNUoMSpN8iEjjzb6z-Ado-xMkyV-NZ3caPP6EA/viewform?usp=sf_link
 [Rubric]: {{site.baseurl}}/assets/hackathon/ACMHackathonInformation2023.pdf
 [Submit]: https://forms.gle/BxQ8EGFBUMRZR3D48

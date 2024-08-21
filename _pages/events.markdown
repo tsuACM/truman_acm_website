@@ -10,16 +10,28 @@ Here we will post upcoming events and the topics of upcoming meetings.
 
 ## Upcoming Events
 
-Check back regularly for updates on upcoming events! 
+### Codeathon
+
+ACM will be hosting a college-wide Codeathon from September 23rd - October 7th! All skill levels and majors are welcome. Check out the [Codeathon][HT] page for more information. 
 
 <br/>
 
 
 ## Upcoming Meetings
 
-*Meetings are held every other Monday at 6:00PM in Violette Hall 1148 unless otherwise specified.*
+*Meetings are held every Monday at 6:00PM in Violette Hall 1148 unless otherwise specified.*
 
-Have a great summer! 
+**August 26th: Welcome Back**
+
+Our first meeting will be a relaxed game night for returning members to catch back up with each other. 
+
+**August 28th: New Members Welcome**
+
+This special meeting will be held right after the Activities Fair on Wednesday, August 28th. We will welcome our new members by playing games and doing icebreakers. Come meet all of your fellow computer science enthusiasts! 
+
+**September 9th: Trivia Night**
+
+We will be holding a trivia night! Questions will include general topics as well as computer science. 
 
 
 
