@@ -19,19 +19,23 @@ ACM will be hosting a college-wide Codeathon from September 23rd - October 7th! 
 
 ## Upcoming Meetings
 
-*Meetings are held every Monday at 6:00PM in Violette Hall 1148 unless otherwise specified.*
-
-**August 26th: Welcome Back**
-
-Our first meeting will be a relaxed game night for returning members to catch back up with each other. 
+*Meetings are held every Monday at 6:00PM in Violette Hall 1144 unless otherwise specified.*
 
 **August 28th: New Members Welcome**
 
-This special meeting will be held right after the Activities Fair on Wednesday, August 28th. We will welcome our new members by playing games and doing icebreakers. Come meet all of your fellow computer science enthusiasts! 
+This special meeting will be held right after the Activities Fair at **5:00PM on Wednesday, August 28th**. We will welcome our new members by playing games and doing icebreakers. Come meet all of your fellow computer science enthusiasts! 
 
 **September 9th: Trivia Night**
 
 We will be holding a trivia night! Questions will include general topics as well as computer science. 
+
+**September 16th: Internship Panel (Tentative)**
+
+This meeting, we will feature a panel of students who have completed internships in computer science. The floor will be open to questions from the audience, so join us if you are curious about what it takes to get an internship! 
+
+**September 23rd: Codeathon Kickoff** 
+
+This meeting will begin our [Fall 2024 Codeathon][HT]! We will introduce the theme and the rules of the competition. **Free food will be provided.** 
 
 
 

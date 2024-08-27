@@ -14,7 +14,9 @@ Checkout our [Events][EV] tab to see information about upcoming meetings and eve
 
 **ACM has switched to weekly meetings this year!**
 
-We hold meetings **every Monday in VH1148 at 6:00pm**. Executive meetings are held on Sundays at the same time. 
+**Meetings this semester have moved to Violette Hall 1144!**
+
+We hold meetings **every Monday in VH1144 at 6:00pm**. Executive meetings are held on Sundays on the second floor of Violette Hall. 
 
 
 # Codeathon
@@ -26,7 +28,7 @@ ACM will be hosting a college-wide Codeathon from September 23rd - October 7th! 
 
 *See the [events page][EV] for details about upcoming meetings.*
 
-**August 26th: Welcome Back**
+**August 28th: New Members Welcome**
 
 
 
