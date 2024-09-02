@@ -28,7 +28,7 @@ ACM will be hosting a college-wide Codeathon from September 23rd - October 7th! 
 
 *See the [events page][EV] for details about upcoming meetings.*
 
-**August 28th: New Members Welcome**
+**September 9th: Trivia Night**
 
 
 

@@ -21,10 +21,6 @@ ACM will be hosting a college-wide Codeathon from September 23rd - October 7th! 
 
 *Meetings are held every Monday at 6:00PM in Violette Hall 1144 unless otherwise specified.*
 
-**August 28th: New Members Welcome**
-
-This special meeting will be held right after the Activities Fair at **5:00PM on Wednesday, August 28th**. We will welcome our new members by playing games and doing icebreakers. Come meet all of your fellow computer science enthusiasts! 
-
 **September 9th: Trivia Night**
 
 We will be holding a trivia night! Questions will include general topics as well as computer science. 
