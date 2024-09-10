@@ -21,11 +21,7 @@ ACM will be hosting a college-wide Codeathon from September 23rd - October 7th! 
 
 *Meetings are held every Monday at 6:00PM in Violette Hall 1144 unless otherwise specified.*
 
-**September 9th: Trivia Night**
-
-We will be holding a trivia night! Questions will include general topics as well as computer science. 
-
-**September 16th: Internship Panel (Tentative)**
+**September 16th: Internship Panel**
 
 This meeting, we will feature a panel of students who have completed internships in computer science. The floor will be open to questions from the audience, so join us if you are curious about what it takes to get an internship! 
 
