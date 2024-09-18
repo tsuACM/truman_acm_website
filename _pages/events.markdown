@@ -12,22 +12,18 @@ Here we will post upcoming events and the topics of upcoming meetings.
 
 ### Codeathon
 
-ACM will be hosting a college-wide Codeathon from September 23rd - October 7th! All skill levels and majors are welcome. Check out the [Codeathon][HT] page for more information. 
+ACM will be hosting a college-wide Codeathon this October! All skill levels and majors are welcome. Check out the [Codeathon][HT] page for more information. 
 
 <br/>
 
 
 ## Upcoming Meetings
 
-*Meetings are held every Monday at 6:00PM in Violette Hall 1144 unless otherwise specified.*
+*Meetings are held every Monday at 6:00PM in Violette Hall 1148 unless otherwise specified.*
 
-**September 16th: Internship Panel**
+**September 23rd: TBD**
 
-This meeting, we will feature a panel of students who have completed internships in computer science. The floor will be open to questions from the audience, so join us if you are curious about what it takes to get an internship! 
-
-**September 23rd: Codeathon Kickoff** 
-
-This meeting will begin our [Fall 2024 Codeathon][HT]! We will introduce the theme and the rules of the competition. **Free food will be provided.** 
+Check back for more information soon! 
 
 
 

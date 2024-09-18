@@ -8,15 +8,15 @@ permalink: /hacktruman/
 
 # ACM Codeathon!
 
-## September 23<sup>rd</sup> - October 7<sup>th</sup>
+## TBD
 
 ## Rules
 
 Welcome to the Fall 2024 Codeathon! Here is some important information: 
 
-* All skill levels and majors are welcome! Judging will be based on execution and creativity, not complexity. 
+* The Codeathon has been moved. Please check back soon to see the updated date. 
 
-* The kickoff will be on September 23rd. Entries must be submitted by October 7th. 
+* All skill levels and majors are welcome! Judging will be based on execution and creativity, not complexity. 
 
 * There will be free food provided at both the kickoff and the judging ceremony. 
 
