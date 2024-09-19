@@ -12,7 +12,7 @@ Here we will post upcoming events and the topics of upcoming meetings.
 
 ### Codeathon
 
-ACM will be hosting a college-wide Codeathon this October! All skill levels and majors are welcome. Check out the [Codeathon][HT] page for more information. 
+ACM will be hosting a college-wide Codeathon this October 14th - 28th! All skill levels and majors are welcome. Check out the [Codeathon][HT] page for more information. 
 
 <br/>
 
@@ -21,9 +21,9 @@ ACM will be hosting a college-wide Codeathon this October! All skill levels and 
 
 *Meetings are held every Monday at 6:00PM in Violette Hall 1148 unless otherwise specified.*
 
-**September 23rd: TBD**
+**September 23rd: Dev Groups Info Session**
 
-Check back for more information soon! 
+Have a CS topic you're interested in? This meeting, we will discuss how to set up your own dev group, where you can explore an area in CS with likeminded students! 
 
 
 
