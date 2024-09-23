@@ -28,7 +28,7 @@ ACM will be hosting a college-wide Codeathon this October 14th - 28th! All skill
 
 *See the [events page][EV] for details about upcoming meetings.*
 
-**September 23rd: Dev Groups Info Session**
+**September 30th: Dr. Bindner Presentation**
 
 
 

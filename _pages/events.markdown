@@ -21,9 +21,9 @@ ACM will be hosting a college-wide Codeathon this October 14th - 28th! All skill
 
 *Meetings are held every Monday at 6:00PM in Violette Hall 1148 unless otherwise specified.*
 
-**September 23rd: Dev Groups Info Session**
+**September 30th: Dr. Bindner Presentation**
 
-Have a CS topic you're interested in? This meeting, we will discuss how to set up your own dev group, where you can explore an area in CS with likeminded students! 
+CS professor Dr. Bindner will be giving a presentation about one of his automation projects! These semesterly presentations provide great inspiration on starting useful personal projects. 
 
 
 
