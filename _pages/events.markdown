@@ -21,7 +21,7 @@ ACM will be hosting a college-wide Codeathon this October 14th - 28th! All skill
 
 *Meetings are held every Monday at 6:00PM in Violette Hall 1148 unless otherwise specified.*
 
-**October 7th: Bar Conference**
+**October 7th: Student Talks**
 
 In this meeting, members will be giving short talks and presentations about CS-related or other relevant topics of their choice. Any member is free to talk, so if there is any topic you are passionate about, this is the perfect time to share that passion with others! 
 

@@ -28,7 +28,7 @@ ACM will be hosting a college-wide Codeathon this October 14th - 28th! All skill
 
 *See the [events page][EV] for details about upcoming meetings.*
 
-**October 7th: Bar Conference**
+**October 7th: Student Talks**
 
 
 
