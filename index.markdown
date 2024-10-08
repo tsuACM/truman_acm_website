@@ -19,8 +19,6 @@ We hold meetings **every Monday in VH1148 at 6:00pm**. Executive meetings are he
 
 # Codeathon
 
-**The Codeathon has been moved to October 14th - 28th!**
-
 ACM will be hosting a college-wide Codeathon this October 14th - 28th! All skill levels and majors are welcome. Check out the [Codeathon][HT] page for more information. 
 
 
@@ -28,7 +26,7 @@ ACM will be hosting a college-wide Codeathon this October 14th - 28th! All skill
 
 *See the [events page][EV] for details about upcoming meetings.*
 
-**October 7th: Student Talks**
+**October 14th: Codeathon Kickoff!**
 
 
 
