@@ -36,7 +36,7 @@ If you are interested in participating in the Codeathon, please fill out the fol
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScIM4HGXZ-8UNUoMSpN8iEjjzb6z-Ado-xMkyV-NZ3caPP6EA/viewform?embedded=true" width="100%" height="1067" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 
-![Codeathon 2024 Poster](/assets/hackathon/CodeathonPosterFull.png)
+![Codeathon 2024 Poster]({{site.baseurl}}/assets/hackathon/CodeathonPosterFull.png)
 
 
 
