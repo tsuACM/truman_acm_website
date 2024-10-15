@@ -12,7 +12,7 @@ Here we will post upcoming events and the topics of upcoming meetings.
 
 ### Codeathon
 
-ACM will be hosting a college-wide Codeathon this October 14th - 28th! All skill levels and majors are welcome. Check out the [Codeathon][HT] page for more information. 
+ACM is hosting a college-wide Codeathon from October 14th - 28th! All skill levels and majors are welcome. Check out the [Codeathon][HT] page for more information. 
 
 <br/>
 
@@ -22,14 +22,9 @@ ACM will be hosting a college-wide Codeathon this October 14th - 28th! All skill
 *Meetings are held every Monday at 6:00PM in Violette Hall 1148 unless otherwise specified.*
 
 
-**October 14th: Codeathon Kickoff!**
+**October 21st: Project Day**
 
-Join us as we kick off our Codeathon! At this meeting, we will explain how the Codeathon will work and give everyone a chance to discuss, ask questions, and find teammates! Free food will be provided. 
-
-
-**October 21th: Project Day**
-
-This meeting will be an opportunity for students to work on and discuss their Codeathon projects with others. Snacks will be provided. 
+This casual meeting will be an opportunity for students to work on and discuss their projects with others. Snacks will be provided. 
 
 
 **October 28th: Codeathon Judging Ceremony**
