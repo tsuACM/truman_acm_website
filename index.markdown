@@ -26,7 +26,7 @@ ACM is hosting a college-wide Codeathon from October 14th - 28th! All skill leve
 
 *See the [events page][EV] for details about upcoming meetings.*
 
-**October 21st: Project Day**
+**October 28th: Codeathon Judging Ceremony**
 
 
 

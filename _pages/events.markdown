@@ -22,11 +22,6 @@ ACM is hosting a college-wide Codeathon from October 14th - 28th! All skill leve
 *Meetings are held every Monday at 6:00PM in Violette Hall 1148 unless otherwise specified.*
 
 
-**October 21st: Project Day**
-
-This casual meeting will be an opportunity for students to work on and discuss their projects with others. Snacks will be provided. 
-
-
 **October 28th: Codeathon Judging Ceremony**
 
 We will be wrapping up the Codeathon and giving out the prizes! Submissions will be due before this meeting. During the meeting, each group or participant will give a short demonstration of their project. At the end, the judges will decide the winners in each category. Free food will be provided. 
