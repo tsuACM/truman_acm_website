@@ -10,9 +10,7 @@ Here we will post upcoming events and the topics of upcoming meetings.
 
 ## Upcoming Events
 
-### Codeathon
-
-ACM is hosting a college-wide Codeathon from October 14th - 28th! All skill levels and majors are welcome. Check out the [Codeathon][HT] page for more information. 
+Check back regularly for information about club events!
 
 <br/>
 
@@ -22,10 +20,19 @@ ACM is hosting a college-wide Codeathon from October 14th - 28th! All skill leve
 *Meetings are held every Monday at 6:00PM in Violette Hall 1148 unless otherwise specified.*
 
 
-**October 28th: Codeathon Judging Ceremony**
+**November 4th: Game Night**
 
-We will be wrapping up the Codeathon and giving out the prizes! Submissions will be due before this meeting. During the meeting, each group or participant will give a short demonstration of their project. At the end, the judges will decide the winners in each category. Free food will be provided. 
+This relaxed meeting will give everyone a chance to unwind after the Codeathon. We will be doing Kahoots and playing games. Come enjoy a relaxing evening! 
 
+
+**November 11th: Resume Workshop**
+
+At this meeting, we will be discussing how to build effective resumes and cover letters for applying for internships. There will be a chance to ask questions about improving your own resumes. 
+
+
+**November 18th: Elections**
+
+We will be electing a new executive board! Multiple positions will be opening up, so make sure to come and vote or throw your hat in the ring! 
 
 
 [HT]: {{site.baseurl}}/hacktruman/

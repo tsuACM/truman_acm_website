@@ -19,14 +19,14 @@ We hold meetings **every Monday in VH1148 at 6:00pm**. Executive meetings are he
 
 # Codeathon
 
-ACM is hosting a college-wide Codeathon from October 14th - 28th! All skill levels and majors are welcome. Check out the [Codeathon][HT] page for more information. 
+The Codeathon has now concluded! Thank you to everyone who participated. 
 
 
 ## Next General Meeting
 
 *See the [events page][EV] for details about upcoming meetings.*
 
-**October 28th: Codeathon Judging Ceremony**
+**November 4th: Game Night**
 
 
 
