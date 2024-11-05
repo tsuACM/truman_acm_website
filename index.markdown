@@ -12,8 +12,6 @@ Checkout our [Events][EV] tab to see information about upcoming meetings and eve
 
 # Meetings
 
-**We have moved back to Violette Hall 1148!**
-
 We hold meetings **every Monday in VH1148 at 6:00pm**. Executive meetings are held on Sundays on the second floor of Violette Hall. 
 
 
@@ -26,7 +24,7 @@ The Codeathon has now concluded! Thank you to everyone who participated.
 
 *See the [events page][EV] for details about upcoming meetings.*
 
-**November 4th: Game Night**
+**November 11th: Resume Workshop**
 
 
 

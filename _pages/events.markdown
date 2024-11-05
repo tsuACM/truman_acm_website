@@ -20,11 +20,6 @@ Check back regularly for information about club events!
 *Meetings are held every Monday at 6:00PM in Violette Hall 1148 unless otherwise specified.*
 
 
-**November 4th: Game Night**
-
-This relaxed meeting will give everyone a chance to unwind after the Codeathon. We will be doing Kahoots and playing games. Come enjoy a relaxing evening! 
-
-
 **November 11th: Resume Workshop**
 
 At this meeting, we will be discussing how to build effective resumes and cover letters for applying for internships. There will be a chance to ask questions about improving your own resumes. 
