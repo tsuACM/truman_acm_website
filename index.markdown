@@ -15,16 +15,11 @@ Checkout our [Events][EV] tab to see information about upcoming meetings and eve
 We hold meetings **every Monday in VH1148 at 6:00pm**. Executive meetings are held on Sundays on the second floor of Violette Hall. 
 
 
-# Codeathon
-
-The Codeathon has now concluded! Thank you to everyone who participated. 
-
-
 ## Next General Meeting
 
 *See the [events page][EV] for details about upcoming meetings.*
 
-**November 11th: Resume Workshop**
+**November 18th: Elections**
 
 
 
