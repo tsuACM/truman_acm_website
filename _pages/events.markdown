@@ -10,7 +10,7 @@ Here we will post upcoming events and the topics of upcoming meetings.
 
 ## Upcoming Events
 
-Check back regularly for information about club events!
+Keep checking back for more information about club events! 
 
 <br/>
 
@@ -19,10 +19,8 @@ Check back regularly for information about club events!
 
 *Meetings are held every Monday at 6:00PM in Violette Hall 1148 unless otherwise specified.*
 
+Keep checking back for more information about club meetings! 
 
-**November 18th: Elections**
-
-We will be electing a new executive board! Multiple positions will be opening up, so make sure to come and vote or throw your hat in the ring! 
 
 
 [HT]: {{site.baseurl}}/hacktruman/

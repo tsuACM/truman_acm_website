@@ -15,17 +15,17 @@ This is the website for Truman State University's ACM chapter. You can visit our
 
 # Executives
 
-President - Owen Murphy
+President - James Calder
 
-Vice President - James Calder
+Vice President - Devyn Logston
 
-Treasurer - Andy Bernatow
+Treasurer - Travis Burkhardt
 
-Secretary - Julian Williams
+Secretary - Asher Hepner
 
-Recruitment Chair - Aditya Shah
+Recruitment Chair - Eddie Gibbons
 
-Webmaster - Dottie Hildrich
+Webmaster - Roshan Thapa Magar
 
 
 <br />

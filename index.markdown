@@ -19,7 +19,7 @@ We hold meetings **every Monday in VH1148 at 6:00pm**. Executive meetings are he
 
 *See the [events page][EV] for details about upcoming meetings.*
 
-**November 18th: Elections**
+See you in spring 2025! 
 
 
 
