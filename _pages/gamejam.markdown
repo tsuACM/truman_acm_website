@@ -1,72 +1,80 @@
 ---
 
 layout: page
-title: ACM Game Jam Spring 2024
+title: ACM Game Jam Spring 2025
 permalink: /gamejam/
 
 ---
 
 # ACM Game Jam
 
-## February 12<sup>st</sup> - February 26<sup>th</sup>
+## March 31<sup>st</sup> - April 14<sup>th</sup>
 
 ## Rules
 
 * All skill levels are welcome! Judging will be based on execution and creativity, not complexity. 
 
-* Submissions will be due at our meeting on February 26th, at 6:00PM. 
+* Submissions will be due at our meeting on April 14th, at 6:00PM. 
 
-* Teams have a maximum size of 3. 
+* Teams have a maximum size of 4. 
 
-* Teams can write their games in any language, but [p5.js][P5] is recommended for beginners. Dr. Kafi's helpful crash course on its use can be found [here][P5P]. 
+* Teams can write their games in any language or any tool.
 
 * Teams may not use any code written before the start of the game jam. They may use publicly available assets such as images as long as they are copyright-free. 
 
-* A link to a p5.js project, an itch.io page, or a Github repository is required to submit the team's game. 
+* An itch.io page, or a Github repository is required to submit the team's game. 
 
-* All teams will give a live demo of their game for the judges, which must be 5 minutes or less. 
+* All teams will give a live demo of their game for the judges, which must be 7 minutes or less. 
 
 
-## Criteria
+## Format.
+* You will have 2 weeks to complete a game incorporating the theme
+* Work at your own pace!
+* You can use any technology/language/engine you’d like
+* Only the first place winner(s) will receive the prize
+* There will only be one submission category
 
-Projects will be evaluated on 5 dimensions: 
-
-1. Creativity - *Is the idea behind the game creative? Does the game include creative or interesting gameplay mechanics?* 
-
-2. Polish - *How finished is the game? Does it have any apparent glitches?* 
-
-3. Presentation - *How complete and cohesive is the overall presentation?* 
-
-4. Theme - *How well does the game embody the theme?* 
-
-5. Demo - *Is the demo descriptive and well-prepared? Does it adequately present the features of the game?* 
-
-The full rubric can be viewed [here][Rubric].
+# Rubric
+* [This][Opening] is our opening presentation.
 
 
 ## Prizes
 The prizes are: 
 
-* A Steam gift card
-* An Amazon gift card
-* Snacks & Sodas
-
-First place will have first pick of the prizes, and so on. 
+* A Gift Card of your choice worth $50
 
 
-# Prompt: Easter Egg
+# Prompt: Only One!
 
-The theme for this game jam is Easter Egg! The game must incorporate the idea of an Easter egg in some way. The phrase is usually associated with [hidden secrets][EE] in games, but teams are free to interpret the theme however they see fit. 
+Interpret as you like!
 
 
 # Submission
 
-The deadline for submissions is February 26th, before the meeting at 6:00PM. Projects can be submitted [here][Submit].
+The deadline for submissions is April 14th, before the meeting at 6:00PM. [Submission Link][Submit] We will keep you updated on our discord server.
 
+# Submissions
+
+- (* Winner #1 *) Julian: [Optix][Julian_Game] 
+- (* Winner #2 *) Shibam: OneTwo (Unity game, contact him) 
+- (* Winner #3 *) Logan: [Single Shot][Logan_Game] 
+- (* Winner #3 *) Eddie: [Fragile Walk][Eddie_Game]
+- Samir: [Battle Arena][Samir_Game]
+- Asher and Benjamin: [One Last Case][Asher_Game]
+- Owen and Dottie: [Block Pushing Game][Owen_Game]
 
 
 [EE]: https://en.wikipedia.org/wiki/Easter_egg_(media)
 [Rubric]: https://docs.google.com/document/d/1NGSTnWUxPJ841z1eyPtD3UQzEU8LelChaghmB3vcXGw/edit?usp=sharing
-[Submit]: https://forms.gle/u2HS2LV5ArhaQidB9
+[Submit]: https://forms.gle/FrprVT2Fkj5H9eJGA
 [P5]: https://p5js.org/
 [P5P]: {{site.baseurl}}/assets/gamejam/p5_GameJam-1.pdf
+[Opening]: https://docs.google.com/presentation/d/19_SrhyzZjbp3KBPfqCmdM1csm_ElbJuj04VoTYnsgls/edit?usp=sharing
+
+
+[Samir_Game]: https://github.com/Rhythmic-Ocean/ASMGame-Jam-Battle-Arena
+[Logan_Game]: https://scratch.mit.edu/projects/1156578229/
+[Julian_Game]: https://github.com/Eidolon2003/Optix
+[Eddie_Game]: https://github.com/EdwardGibbons/Fragile-Walk
+[Asher_Game]: https://github.com/asherhepner12/acm-gamejam
+[Owen_Game]: https://github.com/owentm/gamejam2025
