@@ -28,8 +28,8 @@
   <div class="c-navigation__container u-container">
     <a class="c-navigation__item " href="/acm/">Home</a>
     <a class="c-navigation__item " href="/acm/events/">Events</a>
-    <!--<a class="c-navigation__item " href="/acm/hacktruman/">Codeathon</a>-->
-    <a class="c-navigation__item " href="/acm/gamejam/">Game Jam</a>
+    <a class="c-navigation__item " href="/acm/codeathon/">Codeathon</a>
+    <!-- <a class="c-navigation__item " href="/acm/gamejam/">Game Jam</a> -->
     <!-- <a class="c-navigation__item " href="/acm/order/">T-Shirts</a> -->
     <!-- <a class="c-navigation__item " href="/acm/codecomp/">Code Competition 2018</a> -->
     <!--<a class="c-navigation__item " href="/acm/robocode/">Robocode</a> -->
@@ -82,7 +82,7 @@
   <li>uses white space instead of brackets</li>
 </ul>
 
-<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">5</span><span class="p">):</span>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nf">range</span><span class="p">(</span><span class="mi">5</span><span class="p">):</span>
     <span class="n">stuff</span>
 </code></pre></div></div>
 
@@ -92,7 +92,7 @@
   <li>used to programs that execute on one thread that runs from start to finish and you can trace it</li>
   <li>concurrency allows multiple tasks to be preformed at once</li>
   <li>have to wait for threads to finish before we exit the main program
-    <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">t</span><span class="p">.</span><span class="n">join</span><span class="p">()</span>
+    <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">t</span><span class="p">.</span><span class="nf">join</span><span class="p">()</span>
 </code></pre></div>    </div>
   </li>
   <li>this all allows for more work to be done in less time.</li>
@@ -153,7 +153,7 @@
   <li>you often use locks</li>
 </ul>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>self.lock = threading.lock
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>self.lock = threading.lock
 
 
 
