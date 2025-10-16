@@ -1,7 +1,7 @@
 ---
 
 layout: page
-title: ACM Codeathon Fall 2024
+title: ACM Codeathon Fall 2025
 permalink: /codeathon/
 
 ---

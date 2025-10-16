@@ -17,7 +17,7 @@ Keep checking back for more information about club events!
 
 ## Upcoming Meetings
 
-*Meetings are held every Monday at 6:00PM in Violette Hall 1148 unless otherwise specified.*
+Check our homepage for the information.
 
 Keep checking back for more information about club meetings! 
 
