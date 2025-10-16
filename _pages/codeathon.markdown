@@ -31,13 +31,13 @@ More information will be available closer to the judging date, so keep checking 
 
 We will disclose the theme during the opening ceromony.
 
-## Prizes
+## Prizes (TBD)
 
-There will be 3 awards given to 3 different projects. The awards are: 
+<!-- There will be 3 awards given to 3 different projects. The awards are: 
 
 * Most Technical - For the project which demonstrates the most technical skill. 
 
-* Most Creative - For the project which best demonstrates outside-the-box thinking, separate from technical skill. 
+* Most Creative - For the project which best demonstrates outside-the-box thinking, separate from technical skill.  --> -->
 
 ## Interest Form
 
