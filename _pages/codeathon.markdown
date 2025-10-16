@@ -2,7 +2,7 @@
 
 layout: page
 title: ACM Codeathon Fall 2024
-permalink: /hacktruman/
+permalink: /codeathon/
 
 ---
 
