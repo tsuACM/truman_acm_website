@@ -31,17 +31,32 @@ More information will be available closer to the judging date, so keep checking 
 
 We will disclose the theme during the opening ceromony.
 
-## Prizes (TBD)
+## Prizes
 
-<!-- There will be 3 awards given to 3 different projects. The awards are: 
+There will be 2 awards given to 2 different projects. The awards are: 
 
-* Most Technical - For the project which demonstrates the most technical skill. 
+*First Place – $50 Gift Card*
+Awarded to the project that scores the highest based on the judging criteria. This project will stand out in terms of technical execution, creativity, alignment with the theme, and overall user experience.
 
-* Most Creative - For the project which best demonstrates outside-the-box thinking, separate from technical skill.  --> -->
+*Second Place – $30 Gift Card*
+Awarded to the project with the second-highest overall score. This project will also demonstrate strong technical and creative qualities, along with a clear connection to the theme.
+
+## Grading Rubric
+
+| Criteria                       | Description                                                                                             | Max Points |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------- | ---------- |
+| **Technical Implementation**   | How well is the project built? Consider code quality, performance, complexity, and use of technologies. | 10         |
+| **Creativity & Innovation**    | Is the idea original or implemented in a unique way? Does it show innovation?                           | 10         |
+| **Theme Representation**       | How well does the project align with and represent the given theme?                                     | 10         |
+| **User Experience (UX)**       | Is the interface intuitive and easy to use? Is the user journey smooth?                                 | 5          |
+| **Functionality & Completion** | Does the project work as intended? Is it complete or partially functional?                              | 5          |
+
 
 ## Interest Form
 
 If you are interested in participating in the Codeathon, please fill out the following form. All participants should fill out the form, however, filling it out does **not** require you to submit a project if you change your mind later. 
+
+![Codeathon 2025 Poster]({{site.baseurl}}/assets/hackathon/ACMCodeathonPoster2025.png)
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeBIYp1YcC8lYRIbY8aU_WVrEZkSPY8X6C84jKMni4UTBeGUA/viewform" width="100%" height="1067" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
