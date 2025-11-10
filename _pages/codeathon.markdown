@@ -80,11 +80,11 @@ Awarded to the project with the second-highest overall score. This project will 
 
 ## Submission Form
 
-Here is the submission link for the Cdoe-a-thon!
+Here is the submission link for the Codeathon!
 
 ![Codeathon 2025 Poster]({{site.baseurl}}/assets/hackathon/ACMCodeathonPoster2025.png)
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfUFk5zP0A0FeYihohS0KXxsUh-_2rr5cF8X7T0XkvEIR7JRg/viewform" width="100%" height="1067" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfUFk5zP0A0FeYihohS0KXxsUh-_2rr5cF8X7T0XkvEIR7JRg/viewform?embedded=true" width="100%" height="1067" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 
 
