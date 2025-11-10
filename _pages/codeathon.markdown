@@ -43,16 +43,40 @@ Awarded to the project that scores the highest based on the judging criteria. Th
 *Second Place – $30 Gift Card*
 Awarded to the project with the second-highest overall score. This project will also demonstrate strong technical and creative qualities, along with a clear connection to the theme.
 
-## Grading Rubric
+## Grading Rubrics
+
+### Software Solution Judging Rubric
 
 | Criteria                       | Description                                                                                             | Max Points |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------- | ---------- |
-| **Technical Implementation**   | How well is the project built? Consider code quality, performance, complexity, and use of technologies. | 10         |
-| **Creativity & Innovation**    | Is the idea original or implemented in a unique way? Does it show innovation?                           | 10         |
-| **Theme Representation**       | How well does the project align with and represent the given theme?                                     | 10         |
-| **User Experience (UX)**       | Is the interface intuitive and easy to use? Is the user journey smooth?                                 | 5          |
-| **Functionality & Completion** | Does the project work as intended? Is it complete or partially functional?                              | 5          |
+| **Technical Implementation**   | Consider project's code quality, performance, complexity, and use of technologies.                     | 10         |
+| **Use of AI**                  | Was AI used in a new or clever way? Was discipline/field knowledge required to work effectively? (Note: Do not penalize students that did not use AI.) | 5          |
+| **Creativity**                 | Is the solution original and unique? Is it innovative?                                                  | 10         |
+| **Theme**                      | How well does the solution align with the theme?                                                        | 5          |
+| **User Experience**            | Is the interface intuitive and easy to use?                                                            | 5          |
+| **Functionality & Completion** | Does the project work as intended? Is it complete? Did the group discuss future plans?                 | 5          |
 
+**Total Possible Score: /40**
+
+### Business Solution Judging Rubric
+
+| Criteria                       | Description                                                                                             | Max Points |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------- | ---------- |
+| **Problem**                    | Significance of the problem being addressed                                                             | 5          |
+| **Problem**                    | Ability of solution to solve the problem                                                                | 5          |
+| **Market**                     | Target market is significant and well-defined                                                          | 5          |
+| **Competition**                | Does the solution have potential to beat competition?                                                  | 5          |
+| **Value Creation/Sustainability** | Solution will be successful and long-lived. For non-profits: Will expenses be covered?              | 5          |
+| **Q&A**                        | Ability of the presenters to answer questions                                                           | 5          |
+| **Overall Presentation**       | Consider presentation flow, speaker clarity, audience interaction, etc.                                | 5          |
+
+**Total Possible Score: /35**
+
+## Presentation Format
+
+* **3 minutes** - Pitch (slides optional)
+* **5 minutes** - Software demo
+* **Remaining time** - Q&A
 
 ## Submission Form
 
