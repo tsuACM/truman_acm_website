@@ -4,23 +4,19 @@ title: Events
 permalink: /events/
 ---
 
-Here we will post upcoming events and the topics of upcoming meetings. 
+Here we will post upcoming events and the topics of upcoming meetings.
 
 
 
 ## Upcoming Events
 
-Keep checking back for more information about club events! 
+Keep checking back for more information about club events!
+
+Follow us on [Instagram](https://www.instagram.com/acm_truman/) for the quickest updates.
+
+{% include instagram.html %}
 
 <br/>
-
-
-## Upcoming Meetings
-
-Check our homepage for the information.
-
-Keep checking back for more information about club meetings! 
-
 
 
 [HT]: {{site.baseurl}}/hacktruman/

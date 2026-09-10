@@ -15,17 +15,17 @@ This is the website for Truman State University's ACM chapter. You can visit our
 
 # Executives
 
-President - James Calder
+President - Roshan Thapa Magar
 
-Vice President - Devyn Logston
+Vice President - Asher Hapner
 
-Treasurer - Travis Burkhardt
+Treasurer - Pranaya Khadgi Sahi
 
-Secretary - Asher Hepner
+Secretary - Eddie Gibbons / Amen Bush
 
-Recruitment Chair - Eddie Gibbons
+Recruitment Chair - Anna Nicol
 
-Webmaster - Roshan Thapa Magar
+Webmaster - Huy Huynh
 
 
 <br />

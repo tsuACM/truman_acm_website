@@ -33,3 +33,5 @@ You might notice that some of these pages have markers around them: `<!-- -->`. 
 `discord.html` - Creates a widget that displays information about our Discord server. This is used on the About page. 
 
 `head.html` - This just adds important metadata to each page. Avoid editing this file.
+
+`instagram.html` - Creates a widget that displays our Instagram profile. This is used on the Events page.

@@ -1,14 +1,19 @@
 ---
 
 layout: page
-title: ACM Codeathon Fall 2025
+title: ACM Codeathon Fall 2026
 permalink: /codeathon/
 
 ---
 
 # ACM Codeathon!
 
-## October 27<sup>th</sup> - November 10<sup>th</sup>
+## October 19<sup>th</sup> - November 2<sup>nd</sup>
+
+Save the date! Rules, theme, prizes, and the submission form will be announced soon.
+
+{% comment %}
+Fall 2025 details, kept for reference while Fall 2026 is being finalized.
 
 ## Rules
 
@@ -91,3 +96,4 @@ Here is the submission link for the Codeathon!
 [Interest]: https://docs.google.com/forms/d/e/1FAIpQLScIM4HGXZ-8UNUoMSpN8iEjjzb6z-Ado-xMkyV-NZ3caPP6EA/viewform?usp=sf_link
 [Rubric]: {{site.baseurl}}/assets/hackathon/ACMHackathonInformation2023.pdf
 [Submit]: https://forms.gle/BxQ8EGFBUMRZR3D48
+{% endcomment %}
