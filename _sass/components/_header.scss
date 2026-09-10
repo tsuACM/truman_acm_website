@@ -10,17 +10,30 @@
   background: $t-theme;
 }
 
+.c-header__container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.c-header__logo {
+  flex-shrink: 0;
+  margin-left: 2.5rem;
+  width: 12rem;
+  height: auto;
+}
+
+@media (max-width: 600px) {
+  .c-header__logo {
+    width: 7rem;
+  }
+}
+
 .c-header__title {
   position: relative;
   @include ff--mono(500);
   @include fs--title;
   color: $c__white;
-
-  &:after {
-    margin-left: .5rem;
-    color: rgba(#fff, .5);
-    content: '~';
-  }
 
   span {
     color: rgba(#fff, .5);
