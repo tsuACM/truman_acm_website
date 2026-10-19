@@ -79,4 +79,4 @@ Here is the submission link for the Codeathon!
 <!-- [Interest]: https://docs.google.com/forms/d/e/1FAIpQLScIM4HGXZ-8UNUoMSpN8iEjjzb6z-Ado-xMkyV-NZ3caPP6EA/viewform?usp=sf_link -->
 [Rubric]: {{site.baseurl}}/assets/hackathon/ACMHackathonInformation2026.pdf
 [Submit]: https://forms.gle/qHLKsj554XdhVthW6
-{% endcomment %}
+<!-- {% endcomment %} -->
