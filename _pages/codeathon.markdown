@@ -12,7 +12,7 @@ permalink: /codeathon/
 
 Save the date! Rules, theme, prizes, and the submission form will be announced soon.
 
-{% comment %}
+<!-- {% comment %} -->
 
 ## Rules
 
